@@ -89,7 +89,7 @@ operativo.
 # Modo Kernel vs. Modo Usuario  
 
 | Caracteristica         |                  Kernel Mode                  |                                                  User Mode |
-| :--------------------- | :-------------------------------------------: | ---------------------------------------------------------: |
+| :--------------------: | :-------------------------------------------: | :--------------------------------------------------------: |
 | Interrupciones         |     Se detiene todo el sistema operativo      |                         El programa de la aplicacion falla |
 | Modo                   |               Modo Privilegiado               |                                           Modo Restringido |
 | Espacio de Direcciones | Todos los procesos comparten un unico espacio |              Los procesos obtienen un espacio por separado |
