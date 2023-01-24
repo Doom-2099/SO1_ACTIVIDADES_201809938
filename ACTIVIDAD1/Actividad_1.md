@@ -7,11 +7,9 @@ en el segundo plano. Sin el practicamente nada funciona. Es la interfaz entre el
 Es el corazon del sistema operativo
 
 
-<center>
-
-![Kernel](./Images//Kernel.png)  
-
-</center>
+<p align="center">
+<img src="./Images//Kernel.png" data-canonical-src="./Images//Kernel.png" width="300" height="250">
+</p>
 
 
 # Tipos De Kernel  
@@ -29,11 +27,9 @@ se debera reiniciar. Como tiene acceso a todas las estructuras y rutinas, un err
 propagarse a todo el sistema  
 
 
-<center>
-
-![Kernel_Monolitico](./Images//Kernel_Monolitico.png)
-
-</center>
+<p align="center">
+<img src="./Images//Kernel_Monolitico.png" data-canonical-src="./Images//Kernel_Monolitico.png" width="400" height="300">
+</p>
 
 
 ## Microkernel  
@@ -51,11 +47,9 @@ funcionamiento del sistema. Creando una mejora en la tolerancia a fallos y aumen
 para diferentes plataformas de hardware.
 
 
-<center>
-
-![Microkernel](./Images/Microkernel.png)
-
-</center>
+<p align="center">
+<img src="./Images//Microkernel.png" data-canonical-src="./Images//Microkernel.png" width="400" height="300">
+</p>
 
 
 ## Kernel Hibrido  
@@ -69,11 +63,9 @@ para mejorar el rendimiento y aplicar la alta tolerancia a fallos que representa
 arquitectura del microkernel.
 
 
-<center>
-
-![Kernel_Hibrido](./Images/Kernel_Hibrido.png)
-
-</center>
+<p align="center">
+<img src="./Images//Kernel_Hibrido.png" data-canonical-src="./Images//Kernel_Hibrido.png" width="400" height="300">
+</p>
 
 
 ## Kernel Exonucleo  
@@ -89,11 +81,9 @@ cumpliendo con las necesidades del usuario y asi obtener un mejor rendimiento de
 operativo.
 
 
-<center>
-
-![Exokernel](./Images/Exokernel.png)
-
-</center>
+<p align="center">
+<img src="./Images//Exokernel.png" data-canonical-src="./Images//Exokernel.png" width="400" height="300">
+</p>
 
 
 # Modo Kernel vs. Modo Usuario  
@@ -108,8 +98,6 @@ operativo.
 | Fallos Del Sistema     |         Puede detener todo el sistema         |        Se puede recuperar de un fallo reanudando la sesion |
 
 
-<center>
-
-![Kernel_Vs_User](./Images/Kernel_vs_User.png)
-
-</center>
+<p align="center">
+<img src="./Images//Kernel_vs_User.png" data-canonical-src="./Images//Kernel_vs_User.png" width="500" height="350">
+</p>
